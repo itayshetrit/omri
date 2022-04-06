@@ -63,9 +63,7 @@ const Todos = () => {
                                     checkedIcon={false}
                                     uncheckedIcon={false}
                                     checked={value.done}
-
-                                    onChange={() => setDone(key, !value.done)
-                                    }
+                                    onChange={() => setDone(key, !value.done)}
                                     handleDiameter={20}
                                 />
                             </div>

@@ -27,5 +27,3 @@ export const setMainColor = (color) => {
         return dispatch(setMainColor1(color));
     }
 };
-
-

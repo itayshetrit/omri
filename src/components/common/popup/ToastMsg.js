@@ -1,3 +1,4 @@
+
 import { ToastMsg } from '../Style';
 
 export const GetToast = (addToast, type, msg) => {
